@@ -17,7 +17,7 @@ const Features: React.FC = () => {
         </div>
 
         <div className="w-full md:w-1/2">
-          <h2 className="text-3xl md:text-4xl font-bold mb-8 leading-tight">Um Professor Particular no bolso dele <span className="text-red-600">24h por dia</span></h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-8 leading-tight">Um Professor Particular no bolso <span className="text-red-600">24h por dia</span></h2>
           <p className="text-gray-400 text-lg mb-6 leading-relaxed">
             Na <strong>Plataforma Destrava</strong>, não entregamos apenas o gabarito. Nós entregamos o <strong>RACIOCÍNIO</strong>. 
           </p>
